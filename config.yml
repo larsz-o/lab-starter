@@ -34,11 +34,8 @@ steps:
     left: '%payload.pull_request.title%'
     operator: ===
     right: Add name to README     # the type of action, full list at https://lab.github.com/docs/actions
-                  # some actions require additional options, those should appear below `type:`
-                  # you can execute multiple actions in the `before` block
-                  #
-  - type: respond
-    with: pr-opened.md
+    - type: respond
+      with: pr-opened.md
 
   #
   # - type:
