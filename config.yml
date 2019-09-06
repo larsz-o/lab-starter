@@ -37,7 +37,7 @@ steps:
                   # some actions require additional options, those should appear below `type:`
                   # you can execute multiple actions in the `before` block
                   #
-  # - type:
+  - type: respond
   #   option:
   #
   # - type:
