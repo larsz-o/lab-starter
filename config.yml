@@ -1,8 +1,8 @@
 # Metadata for your course
 
-title: # a name for your Learning Lab course
-tagline: # a short description for your Learning Lab course, displayed on the course catalog
-description: # a longer description for your Learning Lab course, displayed on the course's landing page
+title: Hello World JS      # a name for your Learning Lab course
+tagline: A way to say hello to the world using JavaScript    # a short description for your Learning Lab course, displayed on the course catalog
+description:  In this course you will learn how to write your first declaration to the world in code.  # a longer description for your Learning Lab course, displayed on the course's landing page
 
 # Repository setup
 # The following section template information for the repository
